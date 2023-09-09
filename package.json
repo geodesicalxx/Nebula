@@ -1,7 +1,7 @@
 {
   "name": "geocalc-web",
-  "version": "7.11.6",
-  "description": "Explore the web. Freely.",
+  "version": "7.66.6",
+  "description": "mathematics.",
   "type": "module",
   "main": "app.js",
   "scripts": {
